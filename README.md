@@ -1,8 +1,6 @@
 <div align="center">
 
-# Adam Harmane · Gl1tch
-
-
+<img alt="Adam Harmane" src="https://lang-stats-server.vercel.app/api/name-banner">
 
 <br/>
 
@@ -17,18 +15,6 @@
 </a>
 
 </div>
-
----
-
-### whoami
-
-```yaml
-name    : Adam Harmane
-alias   : Gl1tch
-role    : Frontend-focused Full-Stack Developer
-focus   : UI · Performance · UX
-status  : Building clean & scalable products
-```
 
 ---
 
