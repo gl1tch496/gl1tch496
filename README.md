@@ -54,6 +54,13 @@ status  : Building clean & scalable products
 
 ---
 
+### top languages
+
+<img alt="Top Languages"
+  src="https://lang-stats-server.vercel.app/api/top-langs/?username=gl1tch496&layout=compact&langs_count=8&count_private=true&custom_title=My%20Programming%20Languages&bg_color=4169E1&title_color=FFFFFF&text_color=EAF0FF&hide_border=true&disable_animations=true">
+
+---
+
 ### philosophy
 
 > Building interfaces that feel **fast, smooth, and intentional.**
