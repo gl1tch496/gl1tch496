@@ -32,28 +32,6 @@ status  : Building clean & scalable products
 
 ---
 
-### stack
-
-**frontend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,figma,framer&theme=dark" />
-</p>
-
-**backend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,postgres&theme=dark" />
-</p>
-
-**tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,supabase,vercel,cloudflare,docker,linux,postman&theme=dark" />
-</p>
-
----
-
 ### top languages
 
 <img alt="Top Languages" width="100%"
