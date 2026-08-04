@@ -28,7 +28,7 @@
 ### commit & push stats
 
 <img alt="Commit and Push Stats" width="100%"
-  src="https://lang-stats-server.vercel.app/api/stats-dashboard?username=gl1tch496&custom_title=Commit%20%26%20Push%20Stats&bg_color=4169E1&title_color=FFFFFF&text_color=EAF0FF&value_color=FFFFFF&hide_border=true&v=3">
+  src="https://lang-stats-server.vercel.app/api/stats-dashboard?username=gl1tch496&custom_title=Commit%20%26%20Push%20Stats&bg_color=4169E1&title_color=FFFFFF&text_color=EAF0FF&value_color=FFFFFF&hide_border=true&v=4">
 
 ---
 
