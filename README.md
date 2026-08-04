@@ -5,13 +5,13 @@
 <br/>
 
 <a href="https://github.com/gl1tch496">
-  <img src="https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=1465DF">
+  <img alt="GitHub" src="https://img.shields.io/badge/-0A0F1C?style=for-the-badge&logo=github&logoColor=1465DF">
 </a>
 <a href="https://instagram.com/adaminparallel">
-  <img src="https://img.shields.io/badge/Instagram-0A0F1C?style=for-the-badge&logo=instagram&logoColor=1465DF">
+  <img alt="Instagram" src="https://img.shields.io/badge/-0A0F1C?style=for-the-badge&logo=instagram&logoColor=1465DF">
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Discord-0A0F1C?style=for-the-badge&logo=discord&logoColor=1465DF">
+  <img alt="Discord" src="https://img.shields.io/badge/-0A0F1C?style=for-the-badge&logo=discord&logoColor=1465DF">
 </a>
 
 </div>
