@@ -5,13 +5,13 @@
 <br/>
 
 <a href="https://github.com/gl1tch496">
-  <img alt="GitHub" width="80" height="80" src="https://lang-stats-server.vercel.app/api/social-icon?type=github&size=80&bg=0A0F1C&accent=1465DF">
+  <img alt="GitHub" width="100" height="100" src="https://lang-stats-server.vercel.app/api/social-icon?type=github&size=200&pixel_grid=22&color=1465DF&bg=transparent">
 </a>
 <a href="https://instagram.com/adaminparallel">
-  <img alt="Instagram" width="80" height="80" src="https://lang-stats-server.vercel.app/api/social-icon?type=instagram&size=80&bg=0A0F1C&accent=1465DF">
+  <img alt="Instagram" width="100" height="100" src="https://lang-stats-server.vercel.app/api/social-icon?type=instagram&size=200&pixel_grid=22&color=1465DF&bg=transparent">
 </a>
 <a href="#">
-  <img alt="Discord" width="80" height="80" src="https://lang-stats-server.vercel.app/api/social-icon?type=discord&size=80&bg=0A0F1C&accent=1465DF">
+  <img alt="Discord" width="100" height="100" src="https://lang-stats-server.vercel.app/api/social-icon?type=discord&size=200&pixel_grid=22&color=1465DF&bg=transparent">
 </a>
 
 </div>
